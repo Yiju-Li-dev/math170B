@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmath_170_b=self.webpackChunkmath_170_b||[]).push([[2694],{9464:e=>{e.exports=JSON.parse('{"permalink":"/math170B/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
