@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmath_170_b=self.webpackChunkmath_170_b||[]).push([[9557],{4041:a=>{a.exports=JSON.parse('{"label":"hello","permalink":"/math170b/blog/tags/hello","allTagsPath":"/math170b/blog/tags","count":2}')}}]);
